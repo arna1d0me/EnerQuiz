@@ -1,0 +1,1 @@
+{"version":"pest_2.23.2","defects":{"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":8},"times":{"Tests\\Unit\\ExampleTest::test_that_true_is_true":0.003,"Tests\\Feature\\ExampleTest::test_the_application_returns_a_successful_response":0.015,"P\\Tests\\Feature\\UserRegistrationTest::__pest_evaluable_it_register_a_user":0.032}}
